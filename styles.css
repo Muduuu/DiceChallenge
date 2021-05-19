@@ -40,6 +40,12 @@ footer {
   letter-spacing: 10px;
 
 }
+span {
+  line-height: 5;
+  font-size: larger;
+  text-shadow: 5px 0 #232931;
+  color: #4ECCA3;
+}
 
 /* MOBILE SIZING */
 
